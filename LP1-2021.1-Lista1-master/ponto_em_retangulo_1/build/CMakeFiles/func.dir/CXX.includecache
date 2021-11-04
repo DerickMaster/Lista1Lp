@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/ponto_em_retangulo_1/src/function.cpp
+function.h
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/ponto_em_retangulo_1/src/function.h
+iostream
+-
+
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/ponto_em_retangulo_1/src/function.h
+array
+-
+string
+-
+
