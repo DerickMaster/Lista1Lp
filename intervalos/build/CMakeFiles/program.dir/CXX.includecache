@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/intervalos/src/main.cpp
+iostream
+-
+iomanip
+-
+

@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/function.cpp
+iostream
+-
+array
+-
+
+../src/function.h
+array
+-
+string
+-
+function.cpp
+../src/function.cpp
+
+../tests/lib/test_manager/include/test_manager.h
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/inverter/tests/main.cpp
+iostream
+-
+cassert
+-
+random
+-
+iterator
+-
+vector
+-
+array
+-
+test_manager.h
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/inverter/tests/test_manager.h
+function.h
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/inverter/tests/function.h
+

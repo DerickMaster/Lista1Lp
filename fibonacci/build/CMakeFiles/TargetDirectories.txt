@@ -1,0 +1,5 @@
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/fibonacci/build/CMakeFiles/rebuild_cache.dir
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/fibonacci/build/CMakeFiles/edit_cache.dir
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/fibonacci/build/CMakeFiles/run_tests.dir
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/fibonacci/build/CMakeFiles/all_tests.dir
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/fibonacci/build/CMakeFiles/func.dir

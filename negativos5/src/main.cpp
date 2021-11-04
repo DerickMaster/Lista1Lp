@@ -2,11 +2,17 @@
 using std::cin;
 using std::cout;
 
-const int SIZE = 5; // input size.
-
-int main(void)
+int main()
 {
-    // TODO: Adicione aqui seu código.
-
+    int nArray[5];
+    int negativeCount = 0;
+    for (int i = 0; i < 5; i++)
+    {
+        cin >> nArray[i];
+        if(nArray[i] < 0){
+            negativeCount++;
+        }
+    }
+    cout << negativeCount << std::endl;
     return 0;
 }

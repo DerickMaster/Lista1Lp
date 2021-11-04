@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/minmax/src/function.cpp
+function.h
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/minmax/src/function.h
+stddef.h
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/minmax/src/stddef.h
+iostream
+-
+
+/home/derickm/projects/Lista 1 - Nathanael Derick/LP1-2021.1-Lista1-master/minmax/src/function.h
+utility
+-
+
